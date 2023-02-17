@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm an independent developer based in Abidjan, Ivory Coast who enjoys making app.
 <!--
 **mdjaman/mdjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
