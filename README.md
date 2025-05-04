@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm an independent developer based in Abidjan, Ivory Coast who enjoys making app.
+# Bonjour, I'm Marcel DJAMAN here from Ivory Coast, Burkina Faso and Niger! 👋
+
+I'm a **developer**, **tech consultant**. I'm an independent developer based in Abidjan, Ivory Coast who enjoys making app.
 <!--
 **mdjaman/mdjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,java,python,vue" title="Flutter, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Python, Java" alt="Flutter, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Python and Java" /> <br /><br />
+
+## Connect with me:
+
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarcelDjaman)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/m_djaman/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceldjaman/)
