@@ -1,6 +1,9 @@
-# Bonjour, I'm Marcel DJAMAN here from Ivory Coast, Burkina Faso and Niger! 👋
+## Bonjour, I'm Marcel DJAMAN here! 👋
 
 I'm a **developer**, **tech consultant**. I'm an independent developer based in Abidjan, Ivory Coast who enjoys making app.
+
+Contributed to the design and implementation of national-scale e-surveillance systems for public health data in Burkina Faso and Niger, focusing on real-time disease monitoring and data integration.
+
 <!--
 **mdjaman/mdjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,java,python,vue" title="Flutter, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Python, Java" alt="Flutter, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Python and Java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,php,laravel,symfony,dart,flutter,java,python,vue" title="Flutter, ReactJS, Laravel, Dart, HTML, JS, Python, Java" alt="Flutter, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Python and Java" /> <br /><br />
 
 ## Connect with me:
 
